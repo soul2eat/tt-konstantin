@@ -1,13 +1,14 @@
 {
-  "name": "konstantin",
+  "name": "tt-konstantin",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "jsbarcode": "^3.11.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
